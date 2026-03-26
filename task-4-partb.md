@@ -9,6 +9,7 @@ misinformation.
 •Use strong, unique passwords and enable Two-Factor Authentication (2FA) on all
 accounts.
 •Think before you post, as digital footprints can impact future internship opportunities.
+
 ## The Don'ts
 •Don't post sensitive data like your college ID, Aadhaar number, or home address.
 •Don't engage in cyberbullying or use offensive language in public comments or threads.
